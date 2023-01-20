@@ -14,9 +14,9 @@ late Uint8List memoryCursorDataRawPNG;
 late String cursorName;
 
 String imgPath =
-    "/Users/kingtous/projects/rustdesk_flutter_custom_cursor/example/assets/cursors/data.png";
+    "D:/RemoteameLibsGitHub/remoteame_flutter_custom_cursor/example/assets/cursors/data.png";
 String imgRawPath =
-    "/Users/kingtous/projects/rustdesk_flutter_custom_cursor/example/assets/cursors/data.raw";
+    "D:/RemoteameLibsGitHub/remoteame_flutter_custom_cursor/example/assets/cursors/data.raw";
 late img2.Image img;
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
